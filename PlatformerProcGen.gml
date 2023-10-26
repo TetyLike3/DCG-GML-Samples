@@ -4,7 +4,7 @@
 //
 
 /*
-	I have created a couple macros that will be used here in a different script. The macros can be copied and pasted into a script instance as follows:
+	I have created a couple macros that will be used here. The macros can be copied and pasted into a script instance as follows:
 */
 	#macro CELL_WIDTH 16
 	#macro CELL_HEIGHT 16
