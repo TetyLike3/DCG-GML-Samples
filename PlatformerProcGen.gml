@@ -49,9 +49,9 @@ startingIslandHeight = 8; 			// Integer
 
 islandHeightVariation = 1; 			// Integer
 
-platformLengthVariation = 8; 		// Integer
+platformLengthVariation = 8; 			// Integer
 platformBaseHeight = 6; 			// Integer
-platformHeightVariation = 2; 		// Integer
+platformHeightVariation = 2; 			// Integer
 
 islandGapChance = 0.5; 				// Real, Range: 0-1
 enemySpawnChance = 0.3; 			// Real, Range: 0-1
