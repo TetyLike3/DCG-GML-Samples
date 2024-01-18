@@ -31,6 +31,7 @@
     var globalX = result[0];
     var globalY = result[1];
 */
+
 // The first two parameters are the relative x and y position of the object. The next two parameters are the parent object's x and y position. The last parameter is the parent object's image_angle (or whatever other angle you use).
 function RelativeToGlobalPosition(relX,relY,parX,parY,angle){
 	var relDist = point_distance(parX,parY,parX-relX,parY-relY);
