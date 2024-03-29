@@ -192,7 +192,7 @@ while (lastIslandEndX < gridWidth) {
 	I have assigned this as a global variable so that other objects can use it, for example in tile collisions.
 */
 
-global.groundLayer = layer_create(100,"ProcGen");
+global.groundLayer = layer_create(100,"ProcGen"); // You might want to change the depth here, or change the depth of other layers in the room, otherwise you might not be able to see the tiles.
 global.groundLayerTilemap = layer_tilemap_create(global.groundLayer,-1,0,/*PLACE YOUR TILESET HERE*/,gridWidth*CELL_WIDTH,gridHeight*CELL_HEIGHT);
 
 
