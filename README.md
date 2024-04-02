@@ -1,4 +1,4 @@
-# DCG - GameMaker GML Code Samples
+# GameMaker GML Code Samples
 Free gamemaker gml code for the boys
 
 If you're here, you're probably an absolute barnacle at GML, and need some guidance code to help you.
